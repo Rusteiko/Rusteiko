@@ -1,5 +1,3 @@
-![Banner](https://i.ibb.co/4mW5LwZ/rusteiko-banner-dark.png)
-![Banner](https://i.ibb.co/zPS5mRd/rusteiko-dark-minimal.png)
 
 ```
 # 👋 Olá, eu sou **Adilson Cunha Rusteiko**
