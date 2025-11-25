@@ -96,24 +96,14 @@ Atuo no **SENAI Volkswagen**, na **FIAP** e em projetos industriais e acadêmico
 
 ---
 
-# 🧪 Apresentações, Palestras e Congressos (seleção)
-
-```txt
-• IFIP International Conference on APMS – Digital Twins em Robôs SCARA (2024)
-• Semana de Tecnologia FATEC SBC – Validação de Processos via PLC (2022)
-• Jornadas e Semanas da Matemática – Oficinas de tecnologia e ensino (2004)
-```
-
----
-
 # 🛠️ Tecnologias, Ferramentas e Competências
 
 ```txt
-Robótica: ABB, KUKA, FANUC, UR  
+Robótica: ABB, KUKA, FANUC, UR, 
 Simulação/Digital Twin: CoppeliaSim, Unity, NX CAM  
 Automação: TIA Portal, Siemens SITRAIN, Festo, NR12  
 Programação: Python, OPC-UA, MQTT, IA, ML, LoRa, IoT  
-Supervisório: SCADA/IHM (BluePlant), Node-RED  
+Supervisório: SCADA/IHM (BluePlant)
 CAD/CAM: AutoCAD, SolidWorks, Solid Edge, NX  
 Processos: Pneumática, Eletropneumática, Hidráulica, Usinagem, Soldagem  
 ```
