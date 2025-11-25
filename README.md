@@ -29,12 +29,12 @@ Atuo no **SENAI Volkswagen**, na **FIAP** e em projetos industriais e acadêmico
 
 • Pós-Graduação em Robótica Avançada – UFV
 
-• Pós-Graduação em Matemática Educacional – USJT
+• Pós-Graduação em Matemática – USJT
 
 • Graduação em Formação Pedagógica – UNISUL  
   Título: Avaliação 360º
 
-• Graduação em Matemática com ênfase em Física e Computação – UNIABC
+• Graduação em Matemática com ênfase em Física e Ciência da Computação – UNIABC
 
 • Formação Técnica: Mecânica, Eletrônica e Ferramentaria
 ```
