@@ -41,26 +41,6 @@ Atuo no **SENAI Volkswagen**, na **FIAP** e em projetos industriais e acadêmico
 
 ---
 
-# 🧑‍🏫 Atuação Profissional
-
-```txt
-• Instrutor Profissional – SENAI Volkswagen  
-  Atuação: Robótica Industrial, Automação, CNC, Pneumática, Eletrohidráulica,
-  Metrologia, Usinagem, Sistemas Mecatrônicos, CAD/CAM, Soldagem, NR12.
-
-• Professor – FIAP  
-  Disciplinas: Cinemática, Robótica Industrial, Comunicação de Sistemas Robotizados.
-  Orientador de Iniciação Científica.
-
-• Professor – AHK / Volkswagen  
-  Curso Pós-Técnico em Mecatrônica.
-
-• Pesquisador – CNPq GEDITAD (UNIP)  
-  Pesquisa em Indústria 4.0, IA, Realidade Virtual/Aumentada e Artefatos Digitais.
-```
-
----
-
 # 🔬 Linhas de Pesquisa e Interesse
 
 ```txt
@@ -126,15 +106,6 @@ Conteúdos incluem:
 * Códigos de aula
 * Projetos industriais em simulação
 * Exemplos reais de integração robô–CLP–supervisório–Python
-
----
-
-# 👨‍🎓 Orientações
-
-```txt
-• FIAP – Iniciação Científica (2025)
-  Projeto: “KITA – Robô Gato Guia”
-```
 
 ---
 
